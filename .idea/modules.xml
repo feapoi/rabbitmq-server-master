@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lager/lager.iml" filepath="$PROJECT_DIR$/lager/lager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit_common/rabbit_common.iml" filepath="$PROJECT_DIR$/rabbit_common/rabbit_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-server/rabbitmq-server.iml" filepath="$PROJECT_DIR$/rabbitmq-server/rabbitmq-server.iml" />
+    </modules>
+  </component>
+</project>
